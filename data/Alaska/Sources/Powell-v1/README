@@ -1,0 +1,22 @@
+These are the sources from the Powell Center workshop logic tree
+
+Naming convention for each scenario file:
+
+   Event-1-2-3-4-5-6.par
+
+   where:
+   1 = Scaling relationship (I1)
+   2 = Rupture segment (I2)
+   3 = Surface termination (I1)
+   4 = Depth termination (I1)
+   5 = Asperity location (I1)
+   6 = Sigma from magnitude relationship (I1, where 0 = -2 sigma, 1 = -1, 2 = 0, 3 = 1, 4 = 2)
+
+Format for the scenario file:
+
+
+Format for the fault geometry file:
+
+   Lon, Lat, Dep, Strike, Dip, Rake, Slip, Length, Width, Index along strike, Index along width, Dummy index
+
+
