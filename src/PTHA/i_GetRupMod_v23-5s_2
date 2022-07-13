@@ -1,0 +1,20 @@
+v2.3
+Alaska-slab2-v3
+Alaska-slab2-v3
+-2             : nTop
+.50 .50        : wtTop
+-3             : nBot
+.20 .60 .20    : wtBot
+5              : nLen
+0   11  75  88  110 : iStart 
+10  74  87  109 205 : iEnd
+.01 .01 .01 .01 .01 : wtLen
+57  59  69  71  47  : Rate
+.5  1.  .02 .7  1.  : Coupling
+0   0   0   0   0   : zTop 1
+8   8   8   14  8   : zTop 2
+32  15  15  16  10  : zBot 1
+37  25  20  22  28  : zBot 2
+42  40  25  30  42  : zBot 3
+32e9           : Mu
+3 2.0          : Asperity step, DmaxDav
