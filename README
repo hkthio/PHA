@@ -1,1 +1,3 @@
 Probabilistic Hazard Analysis codes and data
+These codes for a complete package to compute Probabilisitc Tsunai and Fault Dispalcement Hazard.
+Common codes are under the PHA directory, tsunami or dispalcement specific codes are in the PTHA and PFDHA directories respectively.
